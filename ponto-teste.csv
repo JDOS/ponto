@@ -1,0 +1,430 @@
+Data;Hora;Evento;Código;Nome;Matrícula;Portal;Horário
+01/12/23;01:39:56;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+01/12/23;01:40:00;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+01/12/23;01:40:04;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+01/12/23;05:14:25;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+01/12/23;05:45:28;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+01/12/23;05:58:06;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+01/12/23;06:10:52;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+01/12/23;09:26:44;Não identificado;0;;;;
+01/12/23;09:26:59;Não identificado;0;;;;
+01/12/23;09:27:02;Não identificado;0;;;;
+01/12/23;17:29:17;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+01/12/23;18:00:17;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+01/12/23;18:31:12;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+01/12/23;18:33:46;Acesso concedido;1;JONATAS;;Portal;Sempre Liberado
+05/12/23;08:34:25;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+05/12/23;08:52:07;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+05/12/23;08:52:11;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+05/12/23;12:08:04;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+05/12/23;12:55:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+05/12/23;12:55:38;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+05/12/23;12:59:36;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+05/12/23;17:13:49;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+05/12/23;17:40:46;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+06/12/23;16:40:05;Acesso concedido;1;JONATAS;;Portal;Sempre Liberado
+06/12/23;17:00:13;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;02:21:51;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;02:46:04;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;02:47:40;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;03:11:12;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;03:16:58;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+07/12/23;04:05:50;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+07/12/23;07:22:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;08:16:00;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;08:21:23;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+07/12/23;08:47:26;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;08:47:27;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;08:47:31;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;08:49:58;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;11:46:58;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;11:47:02;Não identificado;0;;;;
+07/12/23;11:47:07;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;12:12:17;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;12:12:26;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;12:12:29;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;12:49:29;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;13:16:23;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;15:59:31;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;16:58:43;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+07/12/23;23:18:54;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+07/12/23;23:42:58;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+07/12/23;23:43:32;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+07/12/23;23:48:38;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;02:14:25;Não identificado;0;;;;
+08/12/23;02:14:28;Não identificado;0;;;;
+08/12/23;02:14:30;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;02:14:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;02:16:37;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;02:42:14;Não identificado;0;;;;
+08/12/23;02:42:17;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;02:42:21;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;03:30:07;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;03:58:00;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;04:11:06;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;04:20:25;Não identificado;0;;;;
+08/12/23;04:20:28;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;06:07:59;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;06:46:19;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;07:45:44;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;08:48:00;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;08:48:05;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;09:01:08;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;09:10:19;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;12:38:10;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;12:38:20;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;12:38:27;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;12:58:05;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;13:00:46;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;16:05:45;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;16:41:21;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/12/23;16:44:12;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;23:22:35;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/12/23;23:29:23;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/12/23;23:35:33;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/12/23;23:47:55;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;02:36:09;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/12/23;02:46:29;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/12/23;02:46:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;02:47:09;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;03:15:34;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;03:15:37;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/12/23;03:23:50;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;03:39:54;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/12/23;03:50:20;Não identificado;0;;;;
+09/12/23;03:50:22;Não identificado;0;;;;
+09/12/23;03:50:24;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/12/23;04:16:58;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;06:44:49;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/12/23;07:16:00;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;07:36:11;Não identificado;0;;;;
+09/12/23;07:50:24;Não identificado;0;;;;
+09/12/23;23:16:47;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;23:16:48;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;23:16:58;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/12/23;23:17:24;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/12/23;23:39:31;Não identificado;0;;;;
+09/12/23;23:39:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/12/23;23:39:39;Não identificado;0;;;;
+09/12/23;23:48:31;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;23:48:35;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;23:48:41;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/12/23;23:48:50;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+10/12/23;00:14:35;Não identificado;0;;;;
+10/12/23;00:14:36;Não identificado;0;;;;
+10/12/23;02:05:29;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+10/12/23;02:34:33;Não identificado;0;;;;
+10/12/23;06:51:53;Acesso concedido;1;JONATAS;;Portal;Sempre Liberado
+10/12/23;06:51:53;Não identificado;0;;;;
+11/12/23;08:30:15;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/12/23;08:44:11;Não identificado;0;;;;
+11/12/23;08:44:15;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/12/23;09:08:51;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/12/23;12:09:27;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/12/23;12:09:31;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/12/23;12:09:35;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/12/23;12:09:36;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/12/23;12:35:35;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/12/23;12:40:34;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+11/12/23;12:40:58;Não identificado;0;;;;
+11/12/23;12:41:02;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/12/23;12:43:06;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/12/23;13:20:48;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/12/23;16:04:52;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+11/12/23;17:46:41;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+11/12/23;17:46:59;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+12/12/23;08:38:05;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/12/23;08:42:34;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/12/23;08:53:02;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/12/23;08:58:30;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+12/12/23;11:49:16;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/12/23;11:49:19;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/12/23;12:24:26;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/12/23;12:24:54;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/12/23;12:48:54;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/12/23;12:59:41;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+12/12/23;13:07:45;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/12/23;13:20:08;Não identificado;0;;;;
+12/12/23;13:20:12;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/12/23;15:34:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/12/23;16:08:51;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+13/12/23;09:12:29;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+13/12/23;09:12:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+13/12/23;09:12:38;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+13/12/23;09:12:44;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+13/12/23;11:45:50;Não identificado;0;;;;
+13/12/23;11:45:53;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+13/12/23;11:45:57;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+13/12/23;12:13:02;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+13/12/23;12:13:05;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+13/12/23;12:13:10;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+13/12/23;12:34:41;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+13/12/23;13:05:02;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+13/12/23;14:04:30;Não identificado;0;;;;
+13/12/23;14:04:32;Não identificado;0;;;;
+13/12/23;14:04:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+13/12/23;14:43:55;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+13/12/23;14:44:01;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+13/12/23;15:45:04;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+13/12/23;15:54:32;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+14/12/23;08:20:12;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+14/12/23;08:53:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+14/12/23;08:56:13;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+14/12/23;08:56:44;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+14/12/23;11:22:35;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+14/12/23;11:23:01;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+14/12/23;11:40:59;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+14/12/23;11:41:03;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+14/12/23;11:49:51;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+14/12/23;11:49:54;Não identificado;0;;;;
+14/12/23;11:49:56;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+14/12/23;12:04:17;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+14/12/23;12:18:32;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+14/12/23;13:20:06;Não identificado;0;;;;
+14/12/23;13:20:09;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+14/12/23;14:32:33;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+14/12/23;15:33:16;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+14/12/23;16:02:08;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+15/12/23;08:18:40;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/12/23;08:40:44;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/12/23;08:59:31;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+15/12/23;10:34:23;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/12/23;12:10:23;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/12/23;12:12:43;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/12/23;12:12:56;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/12/23;12:46:55;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/12/23;12:47:01;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/12/23;12:49:48;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/12/23;13:16:38;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/12/23;14:02:00;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/12/23;14:02:01;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/12/23;14:49:27;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/12/23;16:25:32;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+18/12/23;08:29:48;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+18/12/23;08:45:49;Não identificado;0;;;;
+18/12/23;08:45:52;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+18/12/23;08:57:05;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+22/12/23;09:22:17;Não identificado;0;;;;
+22/12/23;09:22:20;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+04/01/24;08:45:07;Não identificado;0;;;;
+04/01/24;08:45:10;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+04/01/24;09:00:49;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+04/01/24;10:42:01;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+04/01/24;11:44:31;Não identificado;0;;;;
+04/01/24;11:44:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+04/01/24;11:44:46;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+04/01/24;11:58:31;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+04/01/24;12:02:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+04/01/24;13:05:49;Não identificado;0;;;;
+04/01/24;13:05:52;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+04/01/24;13:05:57;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+05/01/24;08:53:50;Não identificado;0;;;;
+05/01/24;08:53:52;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+05/01/24;08:55:58;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+05/01/24;12:28:21;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+05/01/24;13:00:07;Não identificado;0;;;;
+05/01/24;13:00:10;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+05/01/24;13:00:15;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+05/01/24;18:15:00;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/01/24;08:28:31;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/01/24;08:42:36;Não identificado;0;;;;
+08/01/24;08:42:39;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/01/24;08:43:27;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+08/01/24;09:02:03;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/01/24;09:49:27;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+08/01/24;11:56:58;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/01/24;11:57:29;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/01/24;12:07:25;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/01/24;12:07:32;Não identificado;0;;;;
+08/01/24;12:07:35;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/01/24;12:59:02;Não identificado;0;;;;
+08/01/24;12:59:05;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+08/01/24;12:59:10;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+08/01/24;15:32:30;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+08/01/24;16:38:44;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/01/24;08:30:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/01/24;08:44:22;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+09/01/24;08:56:15;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/01/24;08:59:43;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/01/24;12:09:57;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/01/24;12:21:11;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+09/01/24;13:04:20;Não identificado;0;;;;
+09/01/24;13:04:22;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+09/01/24;13:04:27;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+09/01/24;17:47:38;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+10/01/24;08:29:54;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+10/01/24;08:44:58;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+10/01/24;08:56:54;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+10/01/24;09:01:37;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+10/01/24;11:25:28;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+10/01/24;11:26:00;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+10/01/24;11:43:34;Não identificado;0;;;;
+10/01/24;11:43:36;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+10/01/24;11:43:39;Não identificado;0;;;;
+10/01/24;11:43:43;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+10/01/24;13:20:17;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+10/01/24;13:20:23;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+10/01/24;16:08:02;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+10/01/24;16:27:32;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/01/24;08:16:15;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/01/24;09:03:06;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/01/24;09:08:06;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+11/01/24;09:18:31;Não identificado;0;;;;
+11/01/24;09:18:33;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/01/24;11:32:40;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/01/24;11:35:35;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/01/24;11:55:42;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/01/24;11:55:45;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/01/24;13:03:07;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+11/01/24;13:39:46;Não identificado;0;;;;
+11/01/24;13:39:50;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+11/01/24;14:50:05;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+11/01/24;16:03:43;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/01/24;08:15:23;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+12/01/24;08:30:21;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/01/24;08:46:13;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/01/24;08:59:22;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/01/24;09:01:48;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+12/01/24;09:41:55;Não identificado;0;;;;
+12/01/24;09:41:58;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+12/01/24;11:31:15;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/01/24;11:31:24;Não identificado;0;;;;
+12/01/24;11:31:26;Não identificado;0;;;;
+12/01/24;11:31:32;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/01/24;11:48:25;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/01/24;11:48:28;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/01/24;11:59:00;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+12/01/24;13:18:48;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+12/01/24;13:39:54;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+12/01/24;13:48:03;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+12/01/24;13:57:39;Não identificado;0;;;;
+12/01/24;13:57:43;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+12/01/24;15:06:22;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+12/01/24;16:04:22;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+12/01/24;17:16:15;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+15/01/24;08:36:41;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/01/24;08:37:55;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+15/01/24;08:40:00;Não identificado;0;;;;
+15/01/24;08:40:02;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/01/24;08:52:52;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/01/24;09:10:03;Não identificado;0;;;;
+15/01/24;09:10:06;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+15/01/24;11:32:15;Não identificado;0;;;;
+15/01/24;11:32:17;Não identificado;0;;;;
+15/01/24;11:32:20;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/01/24;11:32:25;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/01/24;11:46:02;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/01/24;11:46:06;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/01/24;11:46:07;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/01/24;13:08:26;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+15/01/24;13:08:30;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+15/01/24;13:28:05;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+15/01/24;13:38:45;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+15/01/24;14:51:06;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+15/01/24;15:30:23;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+15/01/24;16:14:23;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+16/01/24;08:33:41;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+16/01/24;08:44:00;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+16/01/24;08:45:07;Não identificado;0;;;;
+16/01/24;08:45:09;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+16/01/24;08:49:54;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+16/01/24;08:50:11;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+16/01/24;09:34:57;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+16/01/24;11:28:09;Não identificado;0;;;;
+16/01/24;11:28:11;Não identificado;0;;;;
+16/01/24;11:28:14;Não identificado;0;;;;
+16/01/24;11:28:16;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+16/01/24;11:28:22;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+16/01/24;11:29:02;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+16/01/24;11:46:03;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+16/01/24;11:47:12;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+16/01/24;12:27:02;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+16/01/24;12:28:52;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+16/01/24;12:44:05;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+16/01/24;13:03:12;Não identificado;0;;;;
+16/01/24;13:03:13;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+16/01/24;13:03:24;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+16/01/24;14:17:17;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+16/01/24;15:01:03;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+16/01/24;16:00:15;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+16/01/24;16:28:33;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+17/01/24;07:05:25;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+17/01/24;08:10:45;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+17/01/24;08:28:24;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+17/01/24;08:43:59;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+17/01/24;09:02:00;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+17/01/24;09:10:33;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+17/01/24;11:27:57;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+17/01/24;11:28:00;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+17/01/24;11:41:02;Não identificado;0;;;;
+17/01/24;11:41:05;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+17/01/24;11:41:09;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+17/01/24;12:07:30;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+17/01/24;12:12:10;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+17/01/24;12:46:42;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+17/01/24;13:00:08;Não identificado;0;;;;
+17/01/24;13:00:10;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+17/01/24;13:05:54;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+17/01/24;14:53:27;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+17/01/24;15:12:38;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+18/01/24;08:34:51;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+18/01/24;08:34:58;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+18/01/24;08:44:44;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+18/01/24;08:53:31;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+18/01/24;09:01:42;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+18/01/24;09:34:03;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+18/01/24;11:57:00;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+18/01/24;11:57:04;Não identificado;0;;;;
+18/01/24;11:57:05;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+18/01/24;12:06:25;Não identificado;0;;;;
+18/01/24;12:06:27;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+18/01/24;12:06:32;Não identificado;0;;;;
+18/01/24;12:06:35;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+18/01/24;12:06:38;Acesso concedido;8;GIOVANNA;;Portal;Sempre Liberado
+18/01/24;13:05:35;Não identificado;0;;;;
+18/01/24;13:05:37;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+18/01/24;13:05:42;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+18/01/24;13:20:24;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+18/01/24;13:20:29;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+18/01/24;13:34:36;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+18/01/24;15:40:03;Não identificado;0;;;;
+18/01/24;15:40:05;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+18/01/24;17:33:26;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+18/01/24;17:51:07;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+19/01/24;07:50:48;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+19/01/24;08:08:37;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+19/01/24;08:36:28;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+19/01/24;08:52:25;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+19/01/24;09:40:23;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+19/01/24;10:15:06;Não identificado;0;;;;
+19/01/24;10:15:07;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+19/01/24;11:46:28;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+19/01/24;12:58:34;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+19/01/24;13:10:57;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+19/01/24;13:17:39;Não identificado;0;;;;
+19/01/24;13:17:42;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+19/01/24;13:40:53;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+19/01/24;13:48:59;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+19/01/24;14:45:03;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+19/01/24;15:07:23;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+22/01/24;08:24:51;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+22/01/24;08:38:14;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+22/01/24;08:52:55;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+22/01/24;09:01:32;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+22/01/24;09:04:14;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+22/01/24;10:26:59;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+22/01/24;11:24:00;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+22/01/24;11:24:03;Não identificado;0;;;;
+22/01/24;11:24:05;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+22/01/24;11:36:34;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+22/01/24;11:37:30;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+22/01/24;13:00:05;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+22/01/24;13:05:29;Não identificado;0;;;;
+22/01/24;13:05:35;Acesso concedido;5;GEORGIA;;Portal;Sempre Liberado
+22/01/24;13:05:39;Acesso concedido;6;MATHEUS;;Portal;Sempre Liberado
+22/01/24;14:26:42;Acesso concedido;10;SHEILA;;Portal;Sempre Liberado
+22/01/24;14:26:55;Acesso concedido;7;PATRICIA;;Portal;Sempre Liberado
+22/01/24;14:27:00;Acesso concedido;4;GABRIELLE;;Portal;Sempre Liberado
+22/01/24;14:27:30;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
+22/01/24;15:00:03;Não identificado;0;;;;
+22/01/24;15:00:05;Acesso concedido;9;RENATO;;Portal;Sempre Liberado
